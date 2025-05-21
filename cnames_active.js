@@ -1,3 +1,19 @@
+
+  "minhacalculadora": {
+    "owner": "sambajam",
+    "repo": "calculadora-web",
+    "branch": "main",
+    "path": "/"
+  },
+
+
+
+
+
+
+
+
+
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
